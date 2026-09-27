@@ -1,0 +1,18 @@
+[
+  { "id": "pipeline-hi", "name": "Pipeline", "region": "North Shore, Oahu, HI", "lat": 21.665, "lon": -158.0533 },
+  { "id": "waikiki-hi", "name": "Waikiki", "region": "Oahu, HI", "lat": 21.2766, "lon": -157.827 },
+  { "id": "trestles-ca", "name": "Trestles", "region": "San Clemente, CA", "lat": 33.3825, "lon": -117.5936 },
+  { "id": "malibu-ca", "name": "Malibu", "region": "Surfrider Beach, CA", "lat": 34.0369, "lon": -118.6786 },
+  { "id": "huntington-ca", "name": "Huntington Beach", "region": "Huntington Beach, CA", "lat": 33.6553, "lon": -117.9988 },
+  { "id": "mavericks-ca", "name": "Mavericks", "region": "Half Moon Bay, CA", "lat": 37.493, "lon": -122.5 },
+  { "id": "ocean-beach-ca", "name": "Ocean Beach", "region": "San Francisco, CA", "lat": 37.7594, "lon": -122.5107 },
+  { "id": "rincon-ca", "name": "Rincon", "region": "Santa Barbara, CA", "lat": 34.3742, "lon": -119.4767 },
+  { "id": "lowers-ca", "name": "Lower Trestles", "region": "San Onofre, CA", "lat": 33.3778, "lon": -117.5931 },
+  { "id": "bells-beach-au", "name": "Bells Beach", "region": "Victoria, Australia", "lat": -38.3667, "lon": 144.2833 },
+  { "id": "snapper-rocks-au", "name": "Snapper Rocks", "region": "Gold Coast, Australia", "lat": -28.1667, "lon": 153.55 },
+  { "id": "jeffreys-bay-za", "name": "Jeffreys Bay", "region": "Eastern Cape, South Africa", "lat": -34.0494, "lon": 24.9087 },
+  { "id": "uluwatu-id", "name": "Uluwatu", "region": "Bali, Indonesia", "lat": -8.829, "lon": 115.0879 },
+  { "id": "hossegor-fr", "name": "Hossegor", "region": "Landes, France", "lat": 43.6659, "lon": -1.4406 },
+  { "id": "nazare-pt", "name": "Nazaré", "region": "Praia do Norte, Portugal", "lat": 39.6013, "lon": -9.0714 },
+  { "id": "puerto-escondido-mx", "name": "Puerto Escondido", "region": "Oaxaca, Mexico", "lat": 15.872, "lon": -97.0767 }
+]
